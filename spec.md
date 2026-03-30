@@ -176,10 +176,10 @@ Prototypes/ecommerce-cart/
 
 ### Flow 1: Browse & Filter Products
 
-1. Page loads showing all 8 products in a responsive grid under the heading "Product Wall"
+1. Page loads showing all 8 products in a responsive grid under the heading "Shop Products"
 2. Sidebar displays 5 category buttons ("All" is active by default)
 3. Click a category -- grid instantly filters to matching products
-4. Header updates to show category name and item count (unfiltered view shows "Product Wall")
+4. Header updates to show category name and item count (unfiltered view shows "Shop Products")
 
 ### Flow 2: Quick-View a Product
 
