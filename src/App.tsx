@@ -97,7 +97,7 @@ export default function App() {
             <>
               <div className="main__header">
                 <h1 className="main__title">
-                  {activeCategory === "All" ? "Product Wall" : activeCategory}
+                  {activeCategory === "All" ? "Shop Products" : activeCategory}
                 </h1>
                 <span className="main__count">
                   {filteredProducts.length} item{filteredProducts.length !== 1 && "s"}
