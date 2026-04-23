@@ -117,7 +117,7 @@ export default function App() {
           ) : (
             <>
               <div className="main__header">
-                <h1 className="main__title">Your Cart</h1>
+                <h1 className="main__title">Cart</h1>
                 <span className="main__count">
                   {cart.length} item{cart.length !== 1 && "s"}
                 </span>
